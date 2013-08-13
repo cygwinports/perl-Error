@@ -2,7 +2,7 @@ CPAN_AUTHOR="shlomif"
 inherit perl
 
 NAME="perl-Error"
-VERSION=0.17019
+VERSION=0.17020
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl OO error/exception handling module"
